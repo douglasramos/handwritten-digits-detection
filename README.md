@@ -1,29 +1,23 @@
-## Overview
+# Project
 
-This project, still in development, is based on the scripts (Python 2) made in the book **neuralnetworksanddeeplearning.com** by **Michael Nielsen**, and also on the **Michal Daniel Dobrzanski**'s scripts, that compatibles the code of the book with Python 3. The aim of this project is to reproduce and evolve what was done by the aforementioned works, achieving better performance and accuracy, and making it a software-product, with user interface and new functionalitys.
+This project, still in development, is based on the scripts (Python 2) made in the book **neuralnetworksanddeeplearning.com** by **Michael Nielsen**, and also on the **Michael Daniel Dobrzanski**'s scripts, that is the same as the book by in Python 3. The aim of this project is to reproduce and evolve what was done by the aforementioned works, achieving better performance and accuracy, and making it a software-product, with user interface and new functionalities.
+
+## Road Map
+
+- Finish the basic neural network
+
+- Improve the accuracy with some other techniques
+
+- Read the digit from a generic photo
+
+- Read a sequence of digits from a generic photo
+
+- Extend to the alphabet
+
+- Build a web or desktop user interface
 
 ## License
 
-MIT License
+Copyright © 2019 Douglas Ramos
 
-Copyright (c) 2012-2018 Michael Nielsen
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+Distributed under the MIT License, with due credit to the work on which this project was based.
